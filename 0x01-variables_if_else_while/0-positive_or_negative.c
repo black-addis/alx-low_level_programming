@@ -1,4 +1,3 @@
-Nate, [4/8/2022 23:14]
 
 #include <stdlib.h>
 
@@ -56,5 +55,5 @@ int main(void)
 
  return (0);
 
-}}
+}i}
 
