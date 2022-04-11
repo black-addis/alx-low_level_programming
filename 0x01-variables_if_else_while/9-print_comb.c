@@ -1,8 +1,3 @@
-/*
- * File: 9-print_comb.c
- * Auth: Yedidiya Ambaye
- */
-
 #include <stdio.h>
 
 /**
@@ -10,6 +5,7 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 	int num;
