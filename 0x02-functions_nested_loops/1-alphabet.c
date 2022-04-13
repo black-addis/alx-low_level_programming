@@ -1,8 +1,7 @@
 #include "main.h"
 /**
-*main-main block
-*print_alphabet - prints lowercase letters followed by new line
-*/
+ *print_alphabet - prints lowercase letters followed by new line
+ */
 void print_alphabet(void)
 {
 char letter;
